@@ -22,8 +22,6 @@ unsigned int CompileShader(unsigned int type, const char source[])
 
 int main(void)
 {
-    printf(VertexShader);
-
     GLFWwindow* window;
 
     /* Initialize the library */
