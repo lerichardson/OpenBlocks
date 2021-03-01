@@ -27,6 +27,6 @@ If you have Windows, download the precompiled binaries from each of these websit
 If you use Linux or OSX, you will need to compile the source code.
 
 
-After you have downloaded or compiled the binaries, you will need to link then correctly in your editor or compiler.
+After you have downloaded or compiled the binaries, you will need to link then correctly in your editor or compiler.  There are probably tutorials on YouTube if you don't know how to do this.
 
 Then you can compile the source code.
