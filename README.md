@@ -2,7 +2,7 @@
 
 
 
-Currently unfinished & unrealesed
+Currently unfinished & unreleased
 
 I switched from C++ back to C because now I can deal with memory
 
