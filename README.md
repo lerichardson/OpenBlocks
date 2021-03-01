@@ -1,8 +1,17 @@
 # OpenBlocks
-----------------------------
+
+
+
+Currently being created
+
+I switched from C++ back to C because now I can deal with memory
+
+
+
 # IMPORTANT
-----------------------------
-YOU HAVE TO LINK GLFW AND GLEW PROPERLY FOR THIS PROGRAM TO WORK
+
+
+YOU HAVE TO LINK GLFW AND GLEW PROPERLY FOR THIS SOURCE CODE TO COMPILE
 
 
 >https://www.glfw.org
@@ -14,6 +23,4 @@ IF YOU DO NOT KNOW HOW TO LINK THESE PLEASE LOOK IT UP FOR WHATEVER COMPILER/EDI
 
 
 
-Currently being created
 
-I switched from C++ back to C because now I can deal with memory
