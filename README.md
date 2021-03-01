@@ -18,7 +18,15 @@ Changes:
 
 How to compile:
 
+If you have Windows, download the precompiled binaries from each of these websites:
+
 >https://www.glfw.org
 
->https://glew.sourceforge.net
+>http://glew.sourceforge.net
 
+If you use Linux or OSX, you will need to compile the source code.
+
+
+After you have downloaded or compiled the binaries, you will need to link then correctly in your editor or compiler.
+
+Then you can compile the source code.
