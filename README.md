@@ -14,7 +14,9 @@ Changes:
 
 
 
-How to compile
+
+
+How to compile:
 
 >https://www.glfw.org
 
